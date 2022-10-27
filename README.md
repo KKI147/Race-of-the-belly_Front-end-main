@@ -1,6 +1,8 @@
 json-server --watch db.json
 json-server --watch db.json --port 8080
 
+zzzzzz
+
 경일님 Part : 로그인, 회원가입, 메인페이지, 주문페이지(restaurant)
 지운님 Part : 주문페이지(customer), 주문상세페이지(order), 주문상세페이지(customer)메뉴페이지
 
